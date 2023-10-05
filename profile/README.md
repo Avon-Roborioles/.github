@@ -1,5 +1,5 @@
-# Who we are?
-* We are a FTC Robotics Club comprised of FTC Teams, 21945, 14954, & 15455
+# Who are We?
+* We are a FTC Robotics Club comprised of FTC Teams, 21945, 14954, & 15455.
 * Our repositories from previous years are free to use for any teams needing some inspiration or code snippets!
 
 # Team Repos
